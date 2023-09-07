@@ -2,9 +2,9 @@ public class CompteBancaire {
     public int solde;
     public int result;
 
-    public void CompteBancaire(int solde){
+    public CompteBancaire(int solde){
         this.solde = solde;
-        System.out.print("Solde actuel: " + this.solde + "€\n");
+        System.out.print("Solde du compte courant: " + this.solde + "€\n");
     }
 
     public void deposer(int pognon){

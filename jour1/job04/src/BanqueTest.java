@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class BanqueTest {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        CompteBancaire compte = new CompteBancaire();
-        compte.CompteBancaire(100);
+        CompteBancaire compte = new CompteBancaire(100);
+        // compte.CompteBancaire(100);
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Combien on dépose aujourd'hui ? : ");
