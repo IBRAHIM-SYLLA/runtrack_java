@@ -11,6 +11,12 @@
       <sourceFolder url="file://$MODULE_DIR$/jour2/job05/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jour2/job06/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jour2/job07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour3/job06/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
