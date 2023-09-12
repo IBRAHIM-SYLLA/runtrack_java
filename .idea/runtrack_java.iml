@@ -17,6 +17,17 @@
       <sourceFolder url="file://$MODULE_DIR$/jour3/job04/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jour3/job05/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jour3/job06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour4/job01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour4/job02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour4/job03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour4/job04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jour5/job07/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
